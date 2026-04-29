@@ -29,7 +29,7 @@
         ?>
         <div class="item">
             <img src=<?php echo($arrayMulheres[$i][1])?>/>
-            <h2><?php echo($arrayMulheres[$i][0])?></h2>
+            <h3><?php echo($arrayMulheres[$i][0])?></h3>
             <p><?php echo($arrayMulheres[$i][2])?></p>
         </div>
         <?php
